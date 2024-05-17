@@ -1,0 +1,4 @@
+
+.config/
+sample_data/
+*.ipynb
